@@ -1,2 +1,0 @@
-# insurance-project
-insurance project
